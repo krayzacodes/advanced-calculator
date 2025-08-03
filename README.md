@@ -29,6 +29,7 @@ It supports not only basic operations but also advenced features like power and 
 3. Run the Python file:
 ```bash
 python3 advanced_calculator.py
+```
 
 ### 👩🏻‍💻 Developer
 Created with 💻 and 🩷 by **Mizgin Yakın**
